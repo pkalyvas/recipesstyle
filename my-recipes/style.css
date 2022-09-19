@@ -1,0 +1,23 @@
+h1 {
+  background-color :cornflowerblue;
+  color: white;
+  font-size: 27px;
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  background-color :cornflowerblue;
+  color: white;
+  font-size: 22px;
+  text-align :left;
+}
+ul{
+  background-color :darksalmon;
+  color: black;
+  text-align :left;
+}
+ol{
+  background-color :darksalmon;
+  color: black;
+  text-align :left;
+}
